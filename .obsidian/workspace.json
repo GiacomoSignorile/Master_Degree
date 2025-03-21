@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Image feature descriptors.md",
+                "file": "FoAI/FoAI Graphbrain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image feature descriptors"
+              "title": "FoAI Graphbrain"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d485cc00cb96d3c4",
@@ -186,8 +185,9 @@
   },
   "active": "4266c7aa3d0811aa",
   "lastOpenFiles": [
-    "Machine Learning/Regression.md",
+    "FoAI/FoAI_GraphBrain.md",
     "Computer Vision/Image feature descriptors.md",
+    "Machine Learning/Regression.md",
     "Machine Learning/D-Separation.md"
   ]
 }
